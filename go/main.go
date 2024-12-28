@@ -152,7 +152,7 @@ func main_seq() {
 
 func main() {
 	// main_seq()
-	multi_main_not_safe()
-	multi_main_safe()
-	// main_rwlock()
+	// multi_main_not_safe()
+	// multi_main_safe()
+	main_rwlock()
 }
